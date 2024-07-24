@@ -47,9 +47,9 @@ const Index = () => {
                 >
                   <div className="absolute top-[10px] right-[14px]">
                     <Link href={"#like"}>
-                      <a>
+                      
                         <Image src={like} alt="like" />
-                      </a>
+                      
                     </Link>
                   </div>
                   <Image
